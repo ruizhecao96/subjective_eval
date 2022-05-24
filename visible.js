@@ -11,7 +11,7 @@ var names = ['book_00007_chp_0008_reader_01326_40_DKITCHEN', 'book_00008_chp_014
 'p232_003', 'p232_005', 'p232_011', 'p232_019', 'p232_021', 'p232_023', 'p257_023']
 ];
 // Approach 3 denotes the noisy tracks
-var folders = ["Noisy", "Clean", "PFPL", "PHASEN", "CMGAN", "DEMUCS", "MGAN"]
+var folders = ["Noisy", "Clean", "PFPL", "PHASEN", "CMGAN", "DEMUCS", "MGAN+"]
 
 // shuffle key 20 rows 4 rolumns each row:[3, 4, 2, 5] for example and is shuffled
 
